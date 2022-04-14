@@ -1,1 +1,1 @@
-# jqueryscript
+# Jqueryscript Library
